@@ -44,9 +44,10 @@
     <orderEntry type="library" scope="PROVIDED" name="sinatra (v1.4.4, rbenv: 2.0.0-p353) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="slop (v3.4.7, rbenv: 2.0.0-p353) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="slowhandcuke (v0.0.3, rbenv: 2.0.0-p353) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="syntax (v1.2.0, rbenv: 2.0.0-p353) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="syntax (v1.0.0, rbenv: 2.0.0-p353) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v0.18.1, rbenv: 2.0.0-p353) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, rbenv: 2.0.0-p353) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="yard (v0.8.7.3, rbenv: 2.0.0-p353) [gem]" level="application" />
   </component>
 </module>
 
