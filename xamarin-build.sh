@@ -12,7 +12,7 @@ echo "INFO: copying features over to ${XAMARIN_DIR}"
 cp -r features "${XAMARIN_DIR}/"
 
 echo "INFO: installing xtc_profiles.yml to ${XAMARIN_DIR}/cucumber.yml"
-cp "config/xtc_profiles.yml" "${XAMARIN_DIR}/cucumber.yml"
+cp "config/xtc-profiles.yml" "${XAMARIN_DIR}/cucumber.yml"
 
 PRODUCT_NAME="LPSimpleExample-cal"
 SCHEME="LPSimpleExample-cal"
